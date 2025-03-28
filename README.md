@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently learning every day<br>👯 I’m looking to collaborate on<br>🌱 Working on mobile and web projects<br>💬 ask me without fear, I don't bite<br>⚡ My first "Hello, World!" was quickly followed by "Why isn't it working?" 😅
+🔭 Currently learning every day<br>👯 I’m looking to collaborate on<br>🌱 Working on mobile and web projects<br>💬 ask me without fear, I don't bite<br>⚡ My first "Hello, World!" was quickly followed by "Why isn't it working?" 😅<br> 📄 Know about my experiences <a href="CV English.pdf" target="blank">Resume</a>
 
 
 ## 🌐 Socials:
