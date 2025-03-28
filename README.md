@@ -7,7 +7,7 @@
 
 
  <div align="left"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="www.linkedin.com/in/bryan-daniel-quiñones-garcia-3aa270186">
+        <a style="margin-left: 10px;"  target="_blank" href="www.linkedin.com/in/bryan-daniel-quiñones-garcia">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/DragontitanB">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
