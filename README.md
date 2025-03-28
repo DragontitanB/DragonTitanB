@@ -3,7 +3,7 @@ Bryan Daniel QG</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bryanc&label=Profile%50views&color=0e75b6&style=flat" alt="Bryan Daniel" /> </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=; Mobile+Developer,;Software+Engineer,;Newbie+here:),;Active+Learner/Researcher,;passionate+with+Work,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=3000&pause=1000&color=A007F7&random=true&width=435&lines=Mobile+developer;Software+Engineering+Student;Active+Learner+Researcher;passionate+with+Work;Love+to+learn+new+stuffs..%3C3" alt="Typing SVG" /></a>
 </p>
 
 <a target="_blank" align="center">
